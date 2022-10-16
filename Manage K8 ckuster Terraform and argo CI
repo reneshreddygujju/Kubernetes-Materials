@@ -1,0 +1,4 @@
+This article shows how to create and manage Kubernetes (Kind) cluster with Terraform and Argo CD, and install Kafka on it
+
+
+https://piotrminkowski.com/2022/06/28/manage-kubernetes-cluster-with-terraform-and-argo-cd/
